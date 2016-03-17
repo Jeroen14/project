@@ -1,0 +1,3 @@
+?ASlink-Error-<cannot open> : "C:\Users\jeroen.PC-Jeroen\Documents\documenten elektronica-ict\project in C\xc888_lib_v0.1\my projects\test_gas\test_gas.rel"
++ C:\PROGRA~1\SDCC\bin\sdld.exe -nf "C:\Users\jeroen.PC-Jeroen\Documents\documenten elektronica-ict\project in C\xc888_lib_v0.1\my projects\My first app\myFirstApp.lk"
++ C:\PROGRA~1\SDCC\bin\sdld.exe -nf "C:\Users\jeroen.PC-Jeroen\Documents\documenten elektronica-ict\project in C\xc888_lib_v0.1\my projects\My first app\myFirstApp.lk" returned errorcode 3
